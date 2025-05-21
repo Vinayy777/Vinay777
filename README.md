@@ -1,4 +1,4 @@
-# Vinay777
+# Vinayy777
 <br>
  
 # Hey, I'm Vinay! 👋
