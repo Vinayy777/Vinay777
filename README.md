@@ -11,9 +11,9 @@ I've been working as a Full- Stack Developer for the past two years and currentl
 
 ### 📸 Connect with Me
 
-- 🌟 Instagram: [@itsthatladydev](https://instagram.com/itsthatladydev)
-- 🐦 Twitter: [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)
-- 💼 LinkedIn: [Your LinkedIn Name](https://www.linkedin.com/in/yourlinkedin/)
+- 🌟 Instagram: []
+ 
+- 💼 LinkedIn: [(https://www.linkedin.com/in/vinay-gupta-b40136207/))
 - 📧 Email: vinaygupta8166@email.com
 
 ✨ I love coding that inspires others to explore tech careers. 
